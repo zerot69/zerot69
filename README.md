@@ -18,6 +18,6 @@
 
 ![zerot69's Stats](https://github-readme-stats.vercel.app/api?username=zerot69&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true)
 
-![zerot69's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zerot69&theme=synthwave&hide_border=true&show_icons=true)
+![zerot69's Streak](https://github-readme-streak-stats.herokuapp.com?user=zerot69&theme=synthwave&hide_border=true)
 
 ![zerot69's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerot69&theme=synthwave&hide_border=true&show_icons=true&layout=compact&langs_count=6)
