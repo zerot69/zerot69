@@ -15,6 +15,7 @@
 - Email: ngoovoxhoangftuaans@gmail.com
 - LinkedIn: [@zerot69](https://www.linkedin.com/in/zerot69/)
 - GitHub: [@zerot69](https://github.com/zerot69)
+- Get to know me more at [zerot69.github.io](https://zerot69.github.io/)
 
 ![zerot69's Stats](https://github-readme-stats.vercel.app/api?username=zerot69&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true)
 
